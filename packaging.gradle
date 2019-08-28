@@ -4,8 +4,8 @@ ext {
             artifactId : 'rxalertdialogfragment',
 
             versionCode : 1,
-            versionName : '0.1.0-SNAPSHOT',
-            versionDescription : 'SNAPSHOT',
+            versionName : '0.1.0',
+            versionDescription : 'Initial implementation.',
             vcsTag : 'v0.1.0',
 
 
